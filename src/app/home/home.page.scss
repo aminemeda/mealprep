@@ -25,3 +25,20 @@
 #container a {
   text-decoration: none;
 }
+
+.welcome-container {
+  background-color: #f0f0f0; /* Set your desired background color */
+  padding: 10px;
+  border-radius: 8px;
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.welcome-message {
+  font-size: 18px; /* Set your desired font size */
+  font-weight: bold;
+  color: #333; /* Set your desired text color */
+}
